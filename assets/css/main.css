@@ -4703,3 +4703,8 @@ input, select, textarea {
 		margin-bottom: 10px; /* Adjust as needed */
 	}
 	
+	.center-gif {
+		display: flex;
+		justify-content: center;
+	}
+	
