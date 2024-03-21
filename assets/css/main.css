@@ -4707,4 +4707,9 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 	}
+	.post {
+		margin: 0;
+		padding: 0;
+	}
+	
 	
