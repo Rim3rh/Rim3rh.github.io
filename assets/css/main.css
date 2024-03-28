@@ -18,7 +18,7 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 0;
+	margin:0;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -208,7 +208,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.25rem;
+		font-size: 1.75rem;
 		margin: 0 0 1.5rem 0;
 	}
 
@@ -3779,7 +3779,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 1rem 8rem 1rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
@@ -4712,4 +4712,15 @@ input, select, textarea {
 		padding: 0;
 	}
 	
+	#fotoDNI {
+		width: 20%;
+		height: 20%;
+		border-radius: 150px;
+	}
+	.post {
+		background-image: url('your-image-url.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+		background-size: cover; /* Adjusts the background image size to cover the entire element */
+		background-position: center; /* Centers the background image */
+		/* You can add more CSS properties here to adjust the background image appearance */
+	}
 	
