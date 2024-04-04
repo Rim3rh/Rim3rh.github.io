@@ -4698,7 +4698,8 @@ input, select, textarea {
 	}
 	
 	.gif {
-		max-width: 100%;
+		width: 70%;
+		max-width: 200%;
 		height: auto;
 		margin-bottom: 10px; /* Adjust as needed */
 	}
