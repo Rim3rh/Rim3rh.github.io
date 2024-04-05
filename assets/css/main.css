@@ -4690,18 +4690,27 @@ input, select, textarea {
 
 	.image-container {
 		display: flex;
+		justify-content: center; /* Horizontally center */
 		gap: 20px;
-	}
+	  }
 	
 	.column {
+		display: flex;
+		justify-content: center;
 		flex: 1;
+		
+		margin: 0 0px; /* Optional margin between columns */
+		margin-bottom: 0px; /* Adjust as needed */
+		margin-top: 0px; /* Adjust as needed */
 	}
 	
 	.gif {
 		width: 70%;
 		max-width: 200%;
 		height: auto;
-		margin-bottom: 10px; /* Adjust as needed */
+		margin-bottom: 0px; /* Adjust as needed */
+		margin-top: 0px; /* Adjust as needed */
+
 	}
 	
 	.center-gif {
@@ -4724,4 +4733,10 @@ input, select, textarea {
 		background-position: center; /* Centers the background image */
 		/* You can add more CSS properties here to adjust the background image appearance */
 	}
+	.content-container {
+		
+		margin: 0 auto; /* Center horizontally */
+		padding: 0 20px; /* Add padding if necessary */
+	}
 	
+		
