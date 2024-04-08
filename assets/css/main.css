@@ -4712,6 +4712,10 @@ input, select, textarea {
 		margin-top: 0px; /* Adjust as needed */
 
 	}
+	.gifWide {
+		width: 100%;
+		height: auto;
+	  }
 	
 	.center-gif {
 		display: flex;
@@ -4739,6 +4743,11 @@ input, select, textarea {
 		padding: 0 20px; /* Add padding if necessary */
 	}
 	
+
+	.gif-container {
+		width: 100%;
+		overflow: hidden;
+	  }
 
 	/*-------*/
 
