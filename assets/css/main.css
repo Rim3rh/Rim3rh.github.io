@@ -4712,10 +4712,13 @@ input, select, textarea {
 		margin-top: 0px; /* Adjust as needed */
 
 	}
+<<<<<<< HEAD
 	.gifWide {
 		width: 100%;
 		height: auto;
 	  }
+=======
+>>>>>>> parent of 5eec1b6 (CleanUp)
 	
 	.center-gif {
 		display: flex;
@@ -4743,6 +4746,7 @@ input, select, textarea {
 		padding: 0 20px; /* Add padding if necessary */
 	}
 	
+<<<<<<< HEAD
 
 	.gif-container {
 		width: 100%;
@@ -4773,3 +4777,6 @@ input, select, textarea {
 	  
 
 	/*-------*/
+=======
+		
+>>>>>>> parent of 5eec1b6 (CleanUp)
