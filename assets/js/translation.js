@@ -27,12 +27,6 @@ function initI18Next() {
 
                     //MyProjects HTML
 
-
-
-
-
-
-
                 }
                 
             },
@@ -49,13 +43,6 @@ function initI18Next() {
                     "Side-Scrollers" como <a href="FateGifs.html">Fate: The Curse Of Belzegor</a> o <a href="HopeGifs.html">Our Last Hope</a>,
                     pero aún estoy probando nuevos géneros de juegos y mecánicas diferentes. ¡Explora un poco más mi portafolio para descubrir todos los
                     juegos en los que he podido participar!`,
-
-
-
-
-                    
-
-
                 }
             }
         }
